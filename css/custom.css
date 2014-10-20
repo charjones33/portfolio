@@ -1,0 +1,66 @@
+/*Use this for custom stuff*/
+
+
+.jumbotron {
+	/*background-image: url('../mac.jpg');*/
+}
+
+.jumbotron {
+	font-family: "britannic bold";
+}
+
+.jumbotron {
+    background-image: url('../mac.jpg');
+}
+
+body {
+    background-color: white;
+}
+
+h4 {
+	padding-left: 2cm;
+}
+
+.navbar-inverse{
+	background-color: #E68A00;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: black;
+	font-family: "britannic bold";
+	font-size: 20px;
+}
+
+.column1 {
+height: 30em;
+margin-bottom: 1em;
+background-image: url('../13.png');
+background-repeat: no-repeat;
+}
+
+.column2 {
+height: 30em;
+margin-bottom: 1em;
+background-image: url('../11.png');
+background-repeat: no-repeat;
+}
+.column3 {
+height: 30em;
+margin-bottom: 1em;
+background-image: url('../12.png');
+background-repeat: no-repeat;
+}
+		
+.column1, .column2, .column3 {
+width: 31.3%;
+float: left;
+margin: 1%;
+}
+
+h1 {
+	font-family: "britannic bold";
+}
+
+a {
+	color: #A54808;
+}
