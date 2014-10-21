@@ -1,2 +1,10 @@
 /*Use this for custom stuff*/
 
+.collapse navbar-collapse {
+	margin-right: 20px;
+
+}
+
+h1 {
+	margin-right: 20px;
+}
