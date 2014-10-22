@@ -62,8 +62,22 @@ margin-bottom: 1em;
 background-image: "atheist";
 background-repeat: no-repeat;
 }
+
+.column7 {
+height: 30em;
+margin-bottom: 1em;
+background-image: "atheist";
+background-repeat: no-repeat;
+}
 		
-.column1, .column2, .column3, .column4, .column5, .column6{
+.column8 {
+height: 30em;
+margin-bottom: 1em;
+background-image: "atheist";
+background-repeat: no-repeat;
+}
+
+.column1, .column2, .column3, .column4, .column5, .column6, .column7, .column8{
 width: 31.3%;
 float: left;
 margin: 1%;
