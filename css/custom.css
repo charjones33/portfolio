@@ -37,13 +37,17 @@
     letter-spacing: 0.1em;
     text-transform: uppercase;
     margin-bottom: 10px;
-    font-family: 'HeimatSans-Light', "Helvetica Neue", Helvetica, Verdana, Geneva, Arial, sans-serif;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
 	margin-bottom: 10px;
 }
 
 
 body {
     background-color: white;
+}
+
+.homepage {
+	background-color: #65beb4;
 }
 
 h1 {
@@ -53,7 +57,7 @@ h1 {
 
 .navbar-collapse {
 	padding-left: 0cm;
-	font-family: 'HeimatSans-Light', "Helvetica Neue", Helvetica, Verdana, Geneva, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .nav li {
