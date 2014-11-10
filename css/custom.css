@@ -22,8 +22,8 @@
     top: 0;
     left: 0;
     -webkit-transition: opacity 0.3s linear;
-    text-shadow: #000 1px 1px 0;
-    color: #ccc;
+    text-shadow: #000 0px 0px 0;
+    color: black;
 }
 .img-fade:hover .img-text {
     display: block;
@@ -34,10 +34,10 @@
 }
 .img-text p {
     font-size: 1.2em;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     margin-bottom: 10px;
-    font-family: "Comic Sans", "Comic Sans MS", Helvetica;
+    font-family: 'HeimatSans-Light', "Helvetica Neue", Helvetica, Verdana, Geneva, Arial, sans-serif;
 	margin-bottom: 10px;
 }
 
